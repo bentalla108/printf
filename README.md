@@ -1,4 +1,4 @@
-#printf project 
+# printf project 
 
 Description
 This team project is part of the ALX Software engineering curriculum. _printf replicates the C standard library printf() function.
@@ -9,4 +9,4 @@ How to use git in a team setting
 Applying variadic functions to a big project
 The complexities of printf
 Managing a lot of files and finding a good workflow
- ####### I work with @safietou_deme 
+ ####### I work with [Safietou Deme](https://github.com/SafieDeme)
